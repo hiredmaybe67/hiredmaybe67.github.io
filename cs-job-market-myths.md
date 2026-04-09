@@ -29,9 +29,6 @@ There are still:
 - mid-size companies growing  
 - teams that need engineers  
 
-The difference is that:
-👉 it’s not as easy as it used to be
-
 That’s not the same as impossible.
 
 ---
@@ -68,7 +65,7 @@ It just:
 
 ---
 
-## 🌱 What actually matters more
+# What actually matters more
 
 Instead of focusing on how “bad” the market is, it’s more useful to focus on:
 
@@ -78,17 +75,3 @@ Instead of focusing on how “bad” the market is, it’s more useful to focus 
 - improving over time  
 
 Those things matter in *any* market.
-
----
-
-## ✨ Final thoughts
-
-The CS job market isn’t perfect right now.
-
-But it’s also not “cooked.”
-
-It’s just more competitive — and a little less forgiving.
-
-And if you’re willing to keep learning, improving, and showing up consistently, there’s still space for you.
-
----
