@@ -33,7 +33,7 @@ That’s not the same as impossible.
 
 ---
 
-# What’s actually changed
+## What’s actually changed
 
 The biggest shift isn’t that jobs disappeared — it’s that:
 
