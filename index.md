@@ -6,8 +6,12 @@ hero_image: /redtech.jpg
 ---
 
 
-## POSTINGS
-- [coming soon]
+## Postings
+- Internships: [Coming Soon]
+- New Grad Postings: [Coming Soon]
+- Resume Builders: [Coming Soon]
+- Tech Events: [Coming Soon]
+- SWE Experiance when you don't have experiance: [Coming Soon]
 
 ## Intern Guide
 - [Internship in 2027]({{ '/internship-2027' | relative_url }})
