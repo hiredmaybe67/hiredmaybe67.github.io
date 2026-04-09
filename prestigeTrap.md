@@ -4,8 +4,7 @@ title: the prestige trap in tech
 ---
 
 # Prestige Trap & How to Break Free
-
-You need to have the courage to chase the goals you have and not the goals of others. 
+<p>Stop chasing other Peoples Goals</p>
 
 In computer science theres this toxic idea that the pinnacle of success and status is an offer at a FAANG company.
 
