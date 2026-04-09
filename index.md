@@ -5,9 +5,7 @@ title: ✨ Software Engineering Job Notes
 
 # ✨ Software Engineering Job Notes
 
-> soft thoughts on tech, recruiting, and getting hired ✿
-
-A cute little corner of the internet for honest thoughts on software engineering recruiting, job hunting, and tech.
+> Thoughts on tech, recruiting, and getting hired ✿
 
 ---
 
