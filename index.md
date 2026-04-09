@@ -2,14 +2,7 @@
 layout: default
 title: ✨ Software Engineering Job Notes
 ---
-
-# ✨ Software Engineering Job Notes
-
-> Thoughts on tech, recruiting, and getting hired ✿
-
----
-
-## 🌷 Posts
+## Posts
 
 - [Is the CS Job Market Really “Cooked”? (And Other Myths)](cs-job-market-myths)
 
