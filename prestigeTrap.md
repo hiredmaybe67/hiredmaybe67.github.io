@@ -3,7 +3,7 @@ layout: default
 title: the prestige trap in tech
 ---
 
-## The Prestige Trap in Tech
+# Prestige Trap & How to Break Free
 
 You need to have the courage to chase the goals you have and not the goals of others. 
 
