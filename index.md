@@ -9,4 +9,4 @@ hero_image: /redtech.jpg
 
 - [Is the CS Job Market Really “Cooked”?](cs-job-market-myths)
 - [Prestige Trap](prestigeTrap)
-- [Internship in 2027](internship-2027)
+- [Internship in 2027]({{ '/internship-2027' | relative_url }})
