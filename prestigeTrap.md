@@ -1,54 +1,68 @@
 ---
 layout: default
-title: the prestige trap in tech
+title: the prestige trap in tech: why faang isn’t the goal
 ---
 
-# Prestige Trap
-> *Stop chasing other Peoples Goals*
+# The Prestige Trap in Tech  
+> *Stop chasing other people’s goals in computer science*
 
-Most people waste their life working on goals that they made based on what sounds impressive when you say it out loud. In computer science, this means a job in big tech.
-I genuinely think this mindset is killing creativity.
+Most people in computer science don’t actually choose their career goals.
+
+They choose goals that *sound impressive*.
+
+In tech, that usually means chasing a FAANG job — Amazon, Google, Meta — because it’s seen as the ultimate version of success.
+
+But just because something is respected in the tech industry doesn’t mean it’s right for you.
+
+---
+
+## Why FAANG Became the Default Goal
+
+I genuinely think this mindset is killing creativity in computer science.
 
 Everyone is optimizing for what already exists instead of building something new.  
-No one wants to take risks when there’s a clearly defined “winning path.”
+No one wants to take risks when there’s a clearly defined “winning path” in tech careers.
 
-So we all end up chasing the same roles, the same companies, the same version of success.
+So we all end up chasing:
+- the same roles  
+- the same companies  
+- the same version of success  
 
-And then we wonder why everything feels the same.
+And then we wonder why everything in tech starts to feel the same.
 
-## What’s the Cost?
+## What’s the Cost of Chasing Prestige?
 
-This is where it gets dangerous.
+Once you start thinking like this, your goals stop being yours.
 
-Because once you start thinking like this, your goals stop being yours.
-
-You’re not choosing based on what you want —  
+You’re not choosing a career based on what you want —  
 you’re choosing based on what sounds impressive when you say it out loud.
 
 And the worst part is… it works.
 
-People will be impressed.  
-You’ll get validation.  
-You’ll feel like you’re doing everything “right.”
+When you land a FAANG offer, especially at companies like Amazon or Google:
+- you get validation  
+- it feels like your hard work paid off  
+- it feels like you finally “made it” in tech  
 
-But validation is a terrible foundation for a life.
+But that feeling doesn’t last forever.
 
-When your decisions are driven by external approval, you start optimizing for optics instead of reality. You pick roles that look good, not ones that actually feel right.
+At some point, you realize something uncomfortable:
 
-And that’s how you wake up one day in a job you worked so hard to get…  
-and realize you don’t even like it.
+You don’t even want this.
 
----
+## Choosing Your Own Path in Tech
 
-If you’re going to work *that* hard for something,  
+If you’re going to work *that* hard for a computer science career,  
 why not make sure it’s something you actually want?
 
-I’ve done this too.
+I’ve fallen into this too.
 
 I spent so much time chasing something just because it sounded impressive — not because I actually cared about it.
 
-And that’s the part no one talks about.
+And that’s the part no one talks about in the tech industry.
 
 Not the grind.  
-Not the competition.  
+Not the interview prep.  
+Not the competition.
+
 But the quiet realization that you built your life around the wrong goal.
