@@ -3,10 +3,10 @@ layout: default
 title: the prestige trap in tech
 ---
 
-# Prestige Trap & How to Break Free
-<p>Stop chasing other Peoples Goals</p>
+# Prestige Trap
+> Stop chasing other Peoples Goals
 
-In computer science theres this toxic idea that the pinnacle of success and status is an offer at a FAANG company.
+Most people waste their life working on goals that they made based on what sounds impressive when you say it out loud. In computer science, this means a job in big tech.
 
 ## Whats the Cost? 
 
