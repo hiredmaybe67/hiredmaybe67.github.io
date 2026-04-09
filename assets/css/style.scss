@@ -4,36 +4,37 @@
 @import "minima";
 
 body {
-  background: linear-gradient(to bottom, #fff7fb, #f8fbff);
+  background: linear-gradient(to bottom, #f0f8ff, #e6f2ff);
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 .site-header {
-  background: #ffdff0;
-  border-top: 6px solid #ff9ecb;
-  border-bottom: 1px solid #f3bfd8;
+  background: #d6ecff;
+  border-top: 6px solid #a8d8ff;
+  border-bottom: 1px solid #cce7ff;
 }
 
 .site-title, .site-title:visited {
-  color: #d14f8f;
+  color: #4a90e2;
   font-weight: 700;
 }
 
 .page-content {
-  background: rgba(255,255,255,0.85);
+  background: rgba(255, 255, 255, 0.9);
   border-radius: 18px;
   padding: 24px;
   margin-top: 24px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 h1, h2, h3 {
-  color: #b64d7a;
+  color: #3a7bd5;
 }
 
 a {
-  color: #6b8cff;
+  color: #5aa9ff;
 }
 
 a:hover {
-  color: #d14f8f;
+  color: #3a7bd5;
 }
