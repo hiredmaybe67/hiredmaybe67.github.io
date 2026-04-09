@@ -2,7 +2,6 @@
 layout: default
 title: Software Engineering Intern Guide
 body_class: home
-hero_image: /redtech.jpg
 ---
 ## About 
 This site tracks the latest software engineering internships for Summer 2027, 
