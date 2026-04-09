@@ -9,12 +9,13 @@ body {
 }
 
 .site-header {
-  background: #d6ecff;
+  background-color: #d6ecff;
   border-top: 6px solid #a8d8ff;
   border-bottom: 1px solid #cce7ff;
 }
 
-.site-title, .site-title:visited {
+.site-title,
+.site-title:visited {
   color: #4a90e2;
   font-weight: 700;
 }
