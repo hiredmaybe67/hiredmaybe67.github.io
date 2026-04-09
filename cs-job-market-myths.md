@@ -1,10 +1,9 @@
 ---
 title: Is the CS Job Market Really Cooked?
+layout: default
 ---
-
 If you spend any time online, it’s easy to feel like the CS job market is completely hopeless. This is 90% cope that people aren't where they want to be, and its easy to join in and blame the market instead of working hearder. 
 
----
 
 ## Where this idea comes from
 
