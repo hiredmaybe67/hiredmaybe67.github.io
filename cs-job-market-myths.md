@@ -4,15 +4,7 @@ title: Is the CS Job Market Really “Cooked”? (And Other Myths)
 
 # 🌐 Is the CS Job Market Really “Cooked”? (And Other Myths)
 
-> soft thoughts on tech, recruiting, and what actually matters ✿
-
-If you spend any time online, it’s easy to feel like the CS job market is completely hopeless.
-
-“Tech is cooked.”  
-“There are no jobs anymore.”  
-“If you didn’t start coding at 12, it’s over.”
-
-And honestly… I don’t think that’s true.
+If you spend any time online, it’s easy to feel like the CS job market is completely hopeless. This is 90% cope that people aren't where they want to be, and its easy to join in and blame the market instead of working hearder. 
 
 ---
 
