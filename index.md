@@ -2,7 +2,7 @@
 layout: default
 title: .
 descroption: Tech News and Opinions
-hero_image: /redtech
+hero_image: /redtech.jpg
 ---
 
 ## Recents
