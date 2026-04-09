@@ -8,13 +8,13 @@ hero_image: /redtech.jpg
 
 ## Postings
 - [Summer 2027 SWE Internships]([[https://github.com/hiredmaybe67/SWE-Internships-summer-2027](https://github.com/hiredmaybe67/SWE-Internships-summer-2027/blob/main/README.md)](https://github.com/hiredmaybe67/SWE-Internships-summer-2027/blob/main/README.md))
-- New Grad Postings: [Coming Soon]
 - [Company Events, Recruiting Sessions, Resume Builders](https://github.com/hiredmaybe67/csmajors-swe-opportunities/blob/main/README.md)
 - SWE Experiance when you don't have experiance: [Coming Soon]
+- New Grad Postings: [Coming Soon]
 
-## Intern Guide
+## Advice for CS Majors -- Internship Advice
 - [Internship in 2027]({{ '/internship-2027' | relative_url }})
 
-## Reality
+## My Thoughts
 - [Is the CS Job Market Really “Cooked”?](cs-job-market-myths)
 - [Prestige Trap](prestigeTrap)
