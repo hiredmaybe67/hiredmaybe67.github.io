@@ -1,6 +1,5 @@
 ---
 layout: default
-title: ✨ Software Engineering Job Notes
 ---
 ## Posts
 
@@ -8,7 +7,7 @@ title: ✨ Software Engineering Job Notes
 
 ---
 
-## 💭 Why this exists
+## Why this exists
 
 There’s so much software engineering recruiting advice online that feels unrealistic, overly intense, or just meant to scare people.
 
