@@ -1,8 +1,8 @@
 ---
 layout: default
-hero_image: /prestige-trap-tech.png
 title: "The Prestige Trap in Tech: why FAANG isn’t the Goal"
 description: "Why chasing FAANG jobs in computer science might not be the right goal, and how tech industry prestige can lead you to the wrong career path."
+hero_image: /prestige-trap-tech.png
 ---
 
 <!-- <img src="/prestige-trap-tech.jpg" style="width:20%; border-radius:12px; margin: 20px 0;"> -->
