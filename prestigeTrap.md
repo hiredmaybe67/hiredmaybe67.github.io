@@ -9,7 +9,7 @@ Most people in computer science don’t actually choose their career goals.
 
 They choose goals that *sound impressive*.
 
-In tech, that usually means chasing a FAANG job — Amazon, Google, Meta — because it’s seen as the ultimate version of success.
+In tech, that usually means chasing a FAANG job because it’s seen as the ultimate version of success.
 
 But just because something is respected in the tech industry doesn’t mean it’s right for you.
 
@@ -21,12 +21,7 @@ I genuinely think this mindset is killing creativity in computer science.
 Everyone is optimizing for what already exists instead of building something new.  
 No one wants to take risks when there’s a clearly defined “winning path” in tech careers.
 
-So we all end up chasing:
-- the same roles  
-- the same companies  
-- the same version of success  
-
-And then we wonder why everything in tech starts to feel the same.
+So we all end up chasing the same roles, the same companies, and the same version of success; and then we wonder why everything in tech starts to feel the same.
 
 ## What’s the Cost of Chasing Prestige?
 
