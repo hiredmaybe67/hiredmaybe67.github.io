@@ -13,7 +13,7 @@ on how to land top SWE roles. I also like to share about technology!
 - SWE Experiance when you don't have experiance: [Coming Soon]
 - New Grad Postings: [Coming Soon]
 
-## Advice for CS Majors -- Internship Advice
+## Advice for CS Majors
 - [How to Get a Software Engineering Internship in 2026]({{ '/internship-2027' | relative_url }})
 
 ## My Thoughts
