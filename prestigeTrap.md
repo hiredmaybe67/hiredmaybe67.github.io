@@ -8,6 +8,9 @@ title: the prestige trap in tech
 
 Most people waste their life working on goals that they made based on what sounds impressive when you say it out loud. In computer science, this means a job in big tech.
 
+
+This, I belive, is responsible for the lack of creativity and innovation in the world. Nobody has their own ideas anymore becuase they want to do whats already existing.  
+
 ## Whats the Cost? 
 
 This is where it gets dangerous. Because once you start thinking like that, your goals stop being yours.
