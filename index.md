@@ -1,6 +1,4 @@
----
-layout: default
----
+
 ## Posts
 
 - [Is the CS Job Market Really “Cooked”? (And Other Myths)](cs-job-market-myths)
