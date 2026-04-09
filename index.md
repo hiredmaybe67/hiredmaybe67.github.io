@@ -13,7 +13,7 @@ A cute little corner of the internet for honest thoughts on software engineering
 
 ## 🌷 Posts
 
-- Coming soon :D
+- [Is the CS Job Market Really “Cooked”? (And Other Myths)](cs-job-market-myths)
 
 ---
 
