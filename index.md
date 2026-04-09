@@ -1,11 +1,14 @@
 ---
 layout: default
-title: .
+title: Software Engineering Intern Guide
 body_class: home
 hero_image: /redtech.jpg
 ---
 
-## Recents
+## Intern Guide
+- [Coming Soon]
+
+## Recent Posts
 
 - [Is the CS Job Market Really “Cooked”?](cs-job-market-myths)
 - [Prestige Trap](prestigeTrap)
