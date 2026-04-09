@@ -9,8 +9,7 @@ hero_image: /redtech.jpg
 ## Postings
 - [Summer 2027 SWE Internships]([https://github.com/hiredmaybe67/SWE-Internships-summer-2027](https://github.com/hiredmaybe67/SWE-Internships-summer-2027/blob/main/README.md))
 - New Grad Postings: [Coming Soon]
-- Resume Builders: [Coming Soon]
-- Tech Events: [Coming Soon]
+- [Company Events, Recruiting Sessions, Resume Builders](https://github.com/hiredmaybe67/csmajors-swe-opportunities/blob/main/README.md)
 - SWE Experiance when you don't have experiance: [Coming Soon]
 
 ## Intern Guide
