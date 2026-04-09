@@ -5,7 +5,7 @@ title: Is the CS Job Market Really “Cooked”? (And Other Myths)
 
 ## Posts
 
-- [Is the CS Job Market Really “Cooked”? (And Other Myths)](cs-job-market-myths)
+- [Is the CS Job Market Really “Cooked”?](cs-job-market-myths)
 
 ---
 
