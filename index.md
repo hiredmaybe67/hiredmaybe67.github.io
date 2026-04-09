@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Welcome :P
+title: 
+descroption: Tech News and Opinions
 ---
 
-## Posts
+## Recents
 
 - [Is the CS Job Market Really “Cooked”?](cs-job-market-myths)
 - [Prestige Trap](prestigeTrap)
