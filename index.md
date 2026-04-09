@@ -1,17 +1,13 @@
+# ✨ Software Engineering Job Notes
 
+A cute little corner of the internet for honest thoughts on software engineering recruiting, job hunting, and tech.
 
-# hiredmaybe
+## 🌷 Posts
 
-Anonymous notes on software engineering recruiting, tech, and getting hired.
+- Coming soon :D
 
-## About
-- anything :D
+## 💭 Why this exists
 
-## Posts
-- none yet :D
+There’s so much software engineering recruiting advice online that feels unrealistic, overly intense, or just meant to scare people.
 
----
-
-## Why this exists
-
-Most advice about recruiting and tech careers is either too generic or unrealistic.
+I wanted to make a space for advice that feels more honest, grounded, and actually helpful — especially for people trying to figure things out without all the fear mongering.
