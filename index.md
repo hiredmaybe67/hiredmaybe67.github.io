@@ -7,7 +7,7 @@ hero_image: /redtech.jpg
 
 
 ## Postings
-- [Summer 2027 SWE Internships](https://github.com/hiredmaybe67/SWE-Internships-summer-2027)
+- [Summer 2027 SWE Internships]([https://github.com/hiredmaybe67/SWE-Internships-summer-2027](https://github.com/hiredmaybe67/SWE-Internships-summer-2027/blob/main/README.md))
 - New Grad Postings: [Coming Soon]
 - Resume Builders: [Coming Soon]
 - Tech Events: [Coming Soon]
