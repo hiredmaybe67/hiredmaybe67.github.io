@@ -3,28 +3,38 @@
 
 @import "minima";
 
-body {
-  background: linear-gradient(to bottom, #f0f8ff, #e6f2ff);
+html, body {
+  min-height: 100%;
+  background: linear-gradient(to bottom, #f0f8ff, #e6f2ff) !important;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
+body {
+  background: linear-gradient(to bottom, #f0f8ff, #e6f2ff) !important;
+}
+
 .site-header {
-  background-color: #d6ecff;
+  background-color: #d6ecff !important;
   border-top: 6px solid #a8d8ff;
   border-bottom: 1px solid #cce7ff;
 }
 
 .site-title,
 .site-title:visited {
-  color: #4a90e2;
+  color: #4a90e2 !important;
   font-weight: 700;
 }
 
 .page-content {
+  background: transparent !important;
+}
+
+.wrapper {
   background: rgba(255, 255, 255, 0.9);
   border-radius: 18px;
   padding: 24px;
   margin-top: 24px;
+  margin-bottom: 24px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
