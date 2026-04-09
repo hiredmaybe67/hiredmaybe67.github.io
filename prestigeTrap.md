@@ -5,7 +5,11 @@ title: the prestige trap in tech
 
 # The Prestige Trap in Tech
 
-There’s this weird thing that happens once you start studying computer science. At some point, without anyone explicitly saying it, you start to believe that a big tech offer is proof of success.  
+You need to have the courage to chase the goals you have and not the goals of others. 
+
+In computer science theres this toxic idea that the pinnacle of success and status is an offer at a FAANG company. Its not for the reasons you think.
+
+Whats the cost of impressing others?
 
 You start thinking
 > “I need a job that proves something”
