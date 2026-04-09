@@ -1,7 +1,8 @@
 ---
 layout: default
-title: 
+title: .
 descroption: Tech News and Opinions
+hero_image: /redtech
 ---
 
 ## Recents
