@@ -30,7 +30,24 @@ body {
 .page-content {
   background: transparent !important;
 }
+.banner {
+  width: 100%;
+  padding: 60px 20px 40px;
+  background: linear-gradient(to bottom, #dff0ff, #f4faff);
+  text-align: center;
+}
 
+.banner-content h1 {
+  margin: 0;
+  font-size: 36px;
+  color: #3a7bd5;
+}
+
+.banner-content p {
+  margin-top: 10px;
+  color: #7aa7e9;
+  font-size: 14px;
+}
 .wrapper {
   background: rgba(255, 255, 255, 0.9);
   border-radius: 18px;
