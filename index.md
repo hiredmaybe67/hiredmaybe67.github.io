@@ -13,7 +13,7 @@ hero_image: /redtech.jpg
 - New Grad Postings: [Coming Soon]
 
 ## Advice for CS Majors -- Internship Advice
-- [Internship in 2027]({{ '/internship-2027' | relative_url }})
+- [How to Get a Software Engineering Internship in 2026]({{ '/internship-2027' | relative_url }})
 
 ## My Thoughts
 - [Is the CS Job Market Really “Cooked”?](cs-job-market-myths)
