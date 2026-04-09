@@ -1,14 +1,12 @@
 ---
-title: Is the CS Job Market Really “Cooked”? (And Other Myths)
+title: Is the CS Job Market Really Cooked?
 ---
-
-# 🌐 Is the CS Job Market Really “Cooked”? (And Other Myths)
 
 If you spend any time online, it’s easy to feel like the CS job market is completely hopeless. This is 90% cope that people aren't where they want to be, and its easy to join in and blame the market instead of working hearder. 
 
 ---
 
-## 💭 Where this idea comes from
+# Where this idea comes from
 
 A lot of the fear around the job market comes from:
 - layoffs at big tech companies  
@@ -24,7 +22,7 @@ Which just isn’t accurate.
 
 ---
 
-## 🧠 Myth #1: “There are no jobs in tech anymore”
+# Myth #1: “There are no jobs in tech anymore”
 
 There are still:
 - startups hiring  
@@ -38,7 +36,7 @@ That’s not the same as impossible.
 
 ---
 
-## ⚖️ What’s actually changed
+# What’s actually changed
 
 The biggest shift isn’t that jobs disappeared — it’s that:
 
@@ -54,7 +52,7 @@ But that’s very different from “there’s no point trying.”
 
 ---
 
-## 🚫 Why fear-mongering is harmful
+# Why fear-mongering is harmful
 
 When people constantly say things like:
 - “it’s over”
