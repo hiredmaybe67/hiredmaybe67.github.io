@@ -4,7 +4,7 @@ title: the prestige trap in tech
 ---
 
 # Prestige Trap
-> Stop chasing other Peoples Goals
+> *Stop chasing other Peoples Goals*
 
 Most people waste their life working on goals that they made based on what sounds impressive when you say it out loud. In computer science, this means a job in big tech.
 
