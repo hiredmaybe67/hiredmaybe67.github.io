@@ -6,7 +6,7 @@ title: hiredmaybe
 ## Posts
 
 - [Is the CS Job Market Really “Cooked”?](cs-job-market-myths)
-
+- [Prestige Trap](prestigeTrap)
 ---
 
 ## Why this exists
