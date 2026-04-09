@@ -4,7 +4,7 @@ title: "The Prestige Trap in Tech: why FAANG isn’t the Goal"
 description: "Why chasing FAANG jobs in computer science might not be the right goal, and how tech industry prestige can lead you to the wrong career path."
 ---
 
-<img src="/prestige-trap.jpg" style="width:100%; border-radius:12px; margin: 20px 0;">
+<img src="/prestige-trap-tech.jpg" style="width:100%; border-radius:12px; margin: 20px 0;">
 Most people in computer science don’t actually choose their career goals. They choose goals that *sound impressive*. In tech, that usually means chasing a FAANG job because it’s seen as the ultimate version of success.
 
 But just because something is respected in the tech industry doesn’t mean it’s right for you.
