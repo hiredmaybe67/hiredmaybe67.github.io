@@ -4,7 +4,10 @@ title: Software Engineering Intern Guide
 body_class: home
 hero_image: /redtech.jpg
 ---
-
+## About 
+This site tracks the latest software engineering internships for Summer 2027, 
+along with recruiting events, resume-building opportunities, and real advice 
+on how to land top SWE roles.
 
 ## Postings
 - [Summer 2027 SWE Internships](https://github.com/hiredmaybe67/SWE-Internships-summer-2027/blob/main/README.md)
