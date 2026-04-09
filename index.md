@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Is the CS Job Market Really “Cooked”? (And Other Myths)
+title: hiredmaybe
 ---
 
 ## Posts
