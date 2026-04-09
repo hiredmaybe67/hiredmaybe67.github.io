@@ -6,7 +6,7 @@ If you spend any time online, it’s easy to feel like the CS job market is comp
 
 ---
 
-# Where this idea comes from
+## Where this idea comes from
 
 A lot of the fear around the job market comes from:
 - layoffs at big tech companies  
@@ -22,7 +22,7 @@ Which just isn’t accurate.
 
 ---
 
-# Myth #1: “There are no jobs in tech anymore”
+## Myth #1: “There are no jobs in tech anymore”
 
 There are still:
 - startups hiring  
@@ -49,7 +49,7 @@ But that’s very different from “there’s no point trying.”
 
 ---
 
-# Why fear-mongering is harmful
+## Why fear-mongering is harmful
 
 When people constantly say things like:
 - “it’s over”
@@ -65,7 +65,7 @@ It just:
 
 ---
 
-# What actually matters more
+## What actually matters more
 
 Instead of focusing on how “bad” the market is, it’s more useful to focus on:
 
