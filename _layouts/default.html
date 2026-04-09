@@ -75,6 +75,24 @@
   padding: 5px 5px 0px;
   text-align: center;
 }
+    .hired-button {
+        font-family: "SF Pro Display", sans-serif;
+      text-align: center;
+      color: #FF3621;
+      vertical-align: top;
+      font-size: 25px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+    background-color: #007bff;
+    border-radius: 5px;
+        text-decoration: none; /* Removes underline if using <a> */
+
+    cursor: pointer;
+    display: inline-block;
+}
+    .hired-button:hover {
+  background-color: #0056b3;
+}
   </style>
 </head>
 
@@ -82,7 +100,10 @@
 
   <div class="banner">
   <div class="banner-content">
-    <h3>Hired</h3>
+    <button class="hired-button" type="button">Hired</button>
+    <a href="URL" class="hired-button">Hired</a>
+
+    <!-- <h3>Hired</h3> -->
   </div>
 </div>
 
