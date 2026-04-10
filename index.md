@@ -11,7 +11,7 @@ on how to land top SWE roles. I also like to share about technology!
 Heres a list of resources for current computer science students who want to persure software engineering, including Summer 2027 new grad and internship postings, recruiting events, and opportunities to help you build experience and stand out in the hiring process.
 - [Summer 2027 SWE Internships](https://github.com/hiredmaybe67/SWE-Internships-summer-2027/blob/main/README.md)
 - [Company Events, Recruiting Sessions, Resume Builders](https://github.com/hiredmaybe67/csmajors-swe-opportunities/blob/main/README.md)
-- SWE Experiance when you don't have experiance: [Coming Soon]
+-  SWE Experiance when you don't have experiance: [Coming Soon]
 - New Grad Postings: [Coming Soon]
 
 ## Advice for CS Majors
