@@ -16,6 +16,7 @@ Heres a list of resources for current computer science students who want to pers
 
 ## Advice for CS Majors
 - [How to Get a Software Engineering Internship in 2026]({{ '/internship-2027' | relative_url }})
+- [The Resume that got me FAANG Interviews](resume.md)
 
 ## My Thoughts
 - [Is the CS Job Market Really “Cooked”?](cs-job-market-myths)
